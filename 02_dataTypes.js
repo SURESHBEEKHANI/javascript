@@ -7,16 +7,16 @@
 
 // Instead of 'alert', we use 'console.log' to show the result in Node.js
 // 'alert' is used in browsers to show a popup with the result
-console.log(8 + 9);
+console.log(8 + 9); // Print the result of 8 + 9 to the console
 
 // Declare a variable 'name' with a value of "Suresh beekhani"
-let name = "Suresh beekhani"
+let name = "Suresh beekhani";
 
 // Declare a variable 'age' with a value of 18
-let age = 18
+let age = 18;
 
 // Declare a variable 'isLoggedIn' with a value of false
-let isLoggedIn = false
+let isLoggedIn = false;
 
 // Declare a variable 'state' without an initial value
 let state;
